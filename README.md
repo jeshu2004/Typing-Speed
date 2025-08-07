@@ -3,6 +3,9 @@
 A responsive and interactive typing speed test web application that fetches random quotes and challenges users to type them as fast as they can. Built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
 
 ---
+## View Website
+
+[Click here](https://jeshutyping.ccbp.tech/)
 
 ## 🌐 Live Demo
 
